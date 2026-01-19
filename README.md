@@ -6,6 +6,7 @@ with hands-on experience using AWS serverless architectures.
 
 
 ---
+## 🔥 Featured Projects
 
 ### 🤖 AWS PR Review Automation
 **LLM-powered Pull Request Review & Reminder System**
@@ -18,8 +19,6 @@ with hands-on experience using AWS serverless architectures.
 🔗 https://github.com/JustinKeeJoonHong/aws-pr-review-automation
 
 ---
-
-## 🔥 Featured Projects
 
 ### 🎟️ K-ConcertBook
 **High-Concurrency Ticket Booking System (AWS Serverless)**
