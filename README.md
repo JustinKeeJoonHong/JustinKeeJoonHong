@@ -16,7 +16,7 @@ with hands-on experience using AWS serverless architectures.
 - Detected unattended PRs via **DynamoDB TTL + EventBridge**
 - Improved review turnaround and developer responsiveness
 
-🔗 https://github.com/JustinKeeJoonHong/aws-pr-review-automation
+🔗 [https://github.com/JustinKeeJoonHong/aws-pr-review-automation](https://github.com/JustinKeeJoonHong/aws-pr-review-auitomation)
 
 ---
 
@@ -29,7 +29,7 @@ with hands-on experience using AWS serverless architectures.
   → **94.5% image latency reduction (TTFB: 495.7ms → 27.2ms)**
 - Synced search data to **OpenSearch via DynamoDB Streams (CDC)**
 
-🔗 https://github.com/JustinKeeJoonHong/k-concertbook
+🔗 [https://github.com/JustinKeeJoonHong/k-concertbook](https://github.com/JustinKeeJoonHong/k-concertbook)
 
 ---
 
